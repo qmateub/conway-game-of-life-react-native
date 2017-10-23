@@ -7,6 +7,7 @@ The QR code should be scanned by the expo App.
 
 ## To-Do List
 
-1. Use auto animation to perform every generation
-2. Configuration screen for rows/columns, size of cells, max starting cells, etc.
-3. Add tests
+1. Improve code, namings, and performances.
+2. Use auto animation to perform every generation
+3. Configuration screen for rows/columns, size of cells, max starting cells, etc.
+4. Add tests
