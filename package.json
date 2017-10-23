@@ -18,6 +18,10 @@
   "jest": {
     "preset": "jest-expo"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qmateub/conway-game-of-life-react-native.git"
+  },
   "dependencies": {
     "expo": "^21.0.0",
     "react": "16.0.0-alpha.12",
