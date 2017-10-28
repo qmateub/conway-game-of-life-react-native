@@ -4,8 +4,6 @@ import { Constants } from 'expo';
 import Row from './components/Row';
 import { buildMatrix } from './utils';
 
-import '@expo/vector-icons'; // 5.2.0
-
 const WIDTH = 10;
 const HEIGHT = 10;
 
