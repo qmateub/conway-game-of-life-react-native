@@ -7,8 +7,7 @@ export const buildMatrix = (height, width) => {
   const matrix = [];
   let viva = 0;
   let cont = 0;
-  const MAX = 200;
-  
+  const MAX = height * width;
 
   for (let i = 0; i < height; i++) {
     matrix[i] = [];
